@@ -54,7 +54,6 @@ aside ul li:hover, aside ul a:hover {
 }
 
 main .features{
-    margin-left: 100px;
     text-align: center;
     margin-top: 100px;
     width: 75%;
@@ -66,4 +65,10 @@ main .features h1{
 main .features h3{
     max-width: 400px;
     margin: 20px auto;
+}
+
+form {
+    margin-left: 32%;
+    width: 500px;
+    margin-top: 50px;
 }
